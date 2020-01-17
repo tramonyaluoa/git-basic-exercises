@@ -1,0 +1,523 @@
+    1  sudo aptimstall snapd
+    2  tar xvf ideaIC-2017.2.5.tar.gz
+    3  sudo apt install
+    4  sudo apt install intellij
+    5  c
+    6  /
+    7  ?
+    8  DDDDDCCC
+    9  sudo apt install intellij
+   10  cd /opt/
+   11  sudo tar -xvzf ~/Downloads/ideaIC-2018.3.2.tar.gz
+   12  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   13  tar -zxvf ideaIC-*.tar.gz
+   14  cd idea-*/bin/
+   15  sh idea.sh
+   16  tar -zxvf ideaIC-*.tar.gz
+   17  cd idea-*/bin/
+   18  cd idea-*/bin/sh idea.sh
+   19  cd idea-*/bin/
+   20  sh idea.sh
+   21  clear
+   22  sh idea.sh
+   23  tar -zxvf ideaIC-*.tar.gz
+   24  cd idea-*/bin/
+   25  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   26  tar -zxvf ideaIC-*.tar.gz
+   27  cd idea-*/bin/
+   28  sh idea.sh
+   29  "root"
+   30  man sudo_root
+   31  cd idea-*/bin/
+   32  man sudo_root
+   33  intellij - v
+   34  sudo apt install intellij
+   35  cd sudo idea-*/bin/
+   36  cd
+   37  ../
+   38  ls
+   39  rm idea-IC-191.6183.87
+   40  pwd idea-IC-191.6183.87
+   41  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   42  tar -zxvf ideaIC-*.tar.gz
+   43  cd idea-*/bin/
+   44  sh idea.sh
+   45  clear
+   46  ls
+   47  pwd
+   48  mkdir workspace
+   49  cd workspace
+   50  ls
+   51  touch readme.md
+   52  cp readme.md
+   53  cp readme.md workspace
+   54  cp readme.md/CHANGELOG.md
+   55  cp readme.md workspaces/CHANGELOG.md
+   56  clear
+   57  cd '~'
+   58  ~
+   59  cd '~'/
+   60  cd '~'\
+   61  clear
+   62  cp readme.md
+   63  ../
+   64  ../../
+   65  clear
+   66  ls
+   67  cp readme.md workspace/CHANGELOG.md
+   68  cp readme.md CHANGELOG.md
+   69  ls
+   70  pwd
+   71  mkdir WORKSPACE
+   72  cd WORKSPACE
+   73  ls
+   74  touch README.md
+   75  cp README.md CHANGELOG.md
+   76  touch exercise.md
+   77  ls
+   78  mv exercise cd /temp
+   79  mv exercised /tmp
+   80  mv exercise.md ../tmp
+   81  rm ../tmp/exercise.md
+   82  rm /tmp/exercise.md
+   83  cd /tmp
+   84  ls
+   85  mv exercise.md ./tmp
+   86  cd ~
+   87  cd WORKSPACE
+   88  LS
+   89  ls
+   90  touch exercise.md
+   91  ls
+   92  mv exercise.md /tmp
+   93  rm /tmp/exercise.md
+   94  pwd
+   95  touch umuzi.md recruits.md cohorts.md
+   96  # cat umuzi.md; cat recruit.md; cat cohort.md
+   97  vi umuzi.md
+   98  # cat umuzi.md
+   99  ls
+  100  # cat recruit.md
+  101  ls
+  102  cat > recruit.md
+  103  ls -l recruit.md
+  104  cat > umuzi.md
+  105  cat > cohort.md
+  106  ls -l cohort.md
+  107  ls -l umuzi.md
+  108  cat recruit.md umuzi.md cohort.md > combined.md
+  109  cat comined.md
+  110  cat combined.md
+  111  cat*.md
+  112  cat*.txt
+  113  cat umuzi.md
+  114  ls
+  115  #cat umuzi.md
+  116  # cat umuzi.md
+  117  # cat umuzi
+  118  # cat umuzi.md recruit.md cohort.md >> newfile.txt
+  119  # cat /newfile.txt
+  120  ls
+  121  cat /recruit.md
+  122  # cat ../recruit.md
+  123  cat umuzi
+  124  ls
+  125  cat umuzi.md
+  126  cat recruit.md umuzi.md cohort.md
+  127  cat combined.md
+  128  vim umuzi.md
+  129  sudo apt install vim       
+  130  vim umuzi.md
+  131  cat umuzi.md
+  132  vim recruit.md
+  133  cat recruit.md
+  134  vim cohort.md
+  135  cat cohort.md
+  136  recruit@admin1-ThinkCentre-M72e:~$ cat recruit.md umuzi.md cohort.md
+  137  cat umuzi.md recruit.md cohort.md
+  138  cat umuzi.md recruit.md cohort.md > summary.md
+  139  cat summary.md
+  140  echo 'the end' >> summary.md
+  141  cat summary.md
+  142  locate umuzi
+  143  locate umuzi > search_result.md
+  144  cat search_result.md
+  145  cd ..
+  146  cd Documents
+  147  ls
+  148  cd Documents
+  149  cd ...
+  150  cd music
+  151  cd Music
+  152  pwd
+  153  cd Documents\
+  154  /
+  155  cd /Documents
+  156  cd \Documents
+  157  cd ..
+  158  cd Documents
+  159  cd /
+  160  cd Documents
+  161  ls
+  162  cd home
+  163  cd documents
+  164  cd Documents
+  165  cd /
+  166  ls
+  167  cd home
+  168  cd recruit
+  169  cd Documents
+  170  touch pad.md
+  171  ls
+  172  cd /home/recruit/Desktop
+  173  cd ..
+  174  cd /home/recruit/Desktop
+  175  mkdir work
+  176  cp pad.md
+  177  cp pad.md work
+  178  cd work
+  179  cp pad.md pad_copy.md
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd work
+  184  touch pad.md
+  185  ls
+  186  cp pad.md pad_copy.md
+  187  ls
+  188  cd ..
+  189  ls
+  190  cd home
+  191  cd ..
+  192  cd Documents
+  193  ls
+  194  cp pad.md pad_copy.md
+  195  rm pad_copy.md
+  196  cp pad.md desktop
+  197  rm pad.md desktop
+  198  ls
+  199  touch pad.md
+  200  ls
+  201  cp pad.md pad_copy.md
+  202  cp pad_copy.md desktop
+  203  cd desktop
+  204  cd ..
+  205  cd desktop
+  206  cd Documents
+  207  ls
+  208  cp pad_copy.md Desktop
+  209  cd Desktop
+  210  cd ~
+  211  cd Desktop
+  212  ls
+  213  cd ~
+  214  cd Documents
+  215  ls
+  216  cp pad_copy.md ../Desktop
+  217  cd ../Desktop
+  218  ls
+  219  locate updatedb
+  220  cd -
+  221  locate umuzi.md
+  222  locate pad_copy
+  223  locate pad_copy.md
+  224  whereis pad_copy.md
+  225  whereis pad_copy
+  226  which pad_copy
+  227  locate --basename '\pad_copy'
+  228  ~
+  229  cd ~
+  230  locate --basename '\pad_copy'
+  231  locate "*.c"
+  232  locate "*umuzi"
+  233  locate "*umuzi.mb"
+  234  locate "*umuzi.md"
+  235  locate "*pad_copy.md"
+  236  find -iname '*.pdf'
+  237  find -iname '*.pdf'  > /recruit/Documents
+  238  find -iname '*.pdf' >> /recruit/Documents
+  239  find -iname '*.pdf' >> ~/Documents
+  240  find -iname '*.pdf' >> /home/recruit/Documents
+  241  find -iname '*.pdf' > /home/recruit/Documents
+  242  find -iname '*.pdf' >>> /home/recruit/Documents
+  243  find -iname '*.pdf' >> /home/recruit/Documents/result.md
+  244  cd Documents
+  245  cat result.md
+  246  cd ~
+  247  find *.pdf cp ~/Documents
+  248  find *.pdf cp ~/recruit/Documents
+  249  ls
+  250  find *.pdf cp Documents
+  251  find -iname '*.pdf' cp /Documents
+  252  cp *.pdf Documents
+  253  cp *pdf /Documents
+  254  cp *pdf Documents/
+  255  cp *.pdf Documents/
+  256  cp *.pdf /Documents
+  257  cp *.md /Documents
+  258  find -iname '*.pdf'
+  259  find -iname '*.pdf' && cp 
+  260  find -iname '*.pdf' && cp /Documents
+  261  find -iname '*.pdf' && cp *.pdf /Documents
+  262  find -iname '*.pdf' && cp .pdf /Documents
+  263  cp * .pdf /Documents
+  264  ls
+  265  cp cohort.md Documents 
+  266  cp *pdf Documents
+  267  cp *.pdf Documents 
+  268  cp * .pdf Documents
+  269  cp -rf *.pdf /Documents
+  270  cp *.md /Documents 
+  271  cp *.md Documents 
+  272  cd Documents
+  273  ls
+  274  cp find -iname '*pdf' /Docuuments
+  275  cp --hlep
+  276  cp --help
+  277  find --help
+  278  ls 8pdf
+  279  ls *pdf
+  280  ls *
+  281  ls *.pdf
+  282  ls '*.pdf'
+  283  find -iname '*.pdf'
+  284  cd ..
+  285  ls *.pdf
+  286  ls *
+  287  ls * .pdf
+  288  ls '*.pdf'
+  289  ls *mp3
+  290  ls *.mp3
+  291  ls '*.mp3'
+  292  ls *
+  293  ls
+  294  ls '*.md'
+  295  find -iname '*.pdf'
+  296  cd ./Music/mem back up/Download/
+  297  cd /Music/mem back up/Download/
+  298  cd ../Music/mem back up/Download/
+  299  cd ../Music/mem back up/Download
+  300  cd Download
+  301  cd Downloads
+  302  ls
+  303  ls '*.pdf'
+  304  ls
+  305  cd ..
+  306  cd /recruit
+  307  nano my_bio.md
+  308  $ sudo apt-get install shutter
+  309  vim
+  310  cp *.pdf /Documents 
+  311  find /path/to/search -name "*.doc" -exec cp {} /path/to/copy/to \;
+  312  find -iname '*.pdf'
+  313  find /home/recruit/Music/mem back up/Download -name "*.pdf" -exec cp {} /home/recruit/Documents \;
+  314  find -iname '*.pdf'
+  315  find /home/recruit/Documents -name "*.pdf" -exec cp {} /home/recruit/Downloads \;
+  316  cd Downloads
+  317  ls
+  318  cd ..
+  319  find . -mtime -1 -print
+  320  nano
+  321  nano my_bio.md
+  322  mkdir my_files
+  323  find -iname '*.md'
+  324  mv *_my_bio.md my_files
+  325  mv my_bio.md my_files
+  326  nano
+  327  clear
+  328  mkdir workspace
+  329  clear
+  330  mkdir workspace
+  331  clear
+  332  mkdir workspace
+  333  cd workspace
+  334  clear
+  335  cd ~
+  336  clear
+  337  cd workspace
+  338  clear
+  339  cd ~
+  340  clear
+  341  touch README.md
+  342  clear
+  343  cp readme.md CHANGELOG.md
+  344  README.md CHANGELOG.md
+  345  clear
+  346  cd workspace
+  347  clear
+  348  rm /tmp/exercise.md
+  349  cd ~
+  350  clear
+  351  # cat umuzi.md; cat recruit.md; cat cohort.md
+  352  sudo apt install gnome
+  353  gnome
+  354  clear
+  355  # cat umuzi.md; cat recruit.md; cat cohort.md
+  356  clear
+  357  vim recruit.md
+  358  vim umuzi.md
+  359  clear
+  360  # cat umuzi.md; cat recruit.md; cat cohort.md
+  361  clear
+  362  cat umuzi.md recruit.md cohort.md
+  363  clear
+  364  cat umuzi.md recruit.md cohort.md > summary.md
+  365  cat summary.md
+  366  clear
+  367  echo 'the end' >> summary.md
+  368  cat summary.md
+  369  vim cohort.md
+  370  clear
+  371  locate umuzi
+  372  rm umuzi.md.swp
+  373  locate umuzi
+  374  cd recruit
+  375  cd /recruit
+  376  cd /home/recruit
+  377  rm .umuzi.md.swp
+  378  clear
+  379  cd WORKSPACE
+  380  clear
+  381  locate umuzi
+  382  clear
+  383  locate umuzi > search_result.md
+  384  cat search_result.md
+  385  clear
+  386  cd ~
+  387  cd Documents
+  388  touchpad.md
+  389  clear
+  390  touch pad.md
+  391  clear
+  392  cd /home/recruit/Desktop
+  393  mkdir work
+  394  cp pad_copy.md ../Desktop
+  395  git remote add origin https://github.com/tramonyaluoa/Linux-Challenges.git
+  396  git push -u origin master
+  397  clear
+  398  sudo apt install git
+  399  git clone https://github.com/tramonyaluoa/Linux-Challenges.git
+  400  git add *
+  401  cd Linux-Challenges 
+  402  git add *
+  403  git status
+  404  git commit -m "1st push"
+  405  git config --global user.email "tramonyaluoa@gmail.com"
+  406  git config --global user.name "tramonyaluoa"
+  407  git status
+  408  git commit -m "1st push"
+  409  git status
+  410  git push
+  411  clear
+  412  mkdir git_basic-exercises
+  413  rm git_basic-exercises
+  414  ls
+  415  clear
+  416  mkdir git-basic-exercises
+  417  cd git-basic-exercises
+  418  ls-a
+  419  ls -a
+  420  git init
+  421  PREVIOUSNEXT
+  422  clear
+  423  mkdir git-basic-exercises
+  424  clear
+  425  ls -a
+  426  git status
+  427  touch README.md
+  428  git status
+  429  ls
+  430  ls -a
+  431  git log
+  432  git add
+  433  git add .
+  434  git status
+  435  git reset
+  436  git status
+  437  git add
+  438  git add .
+  439  ls -a
+  440  git status
+  441  git commit -m "initial commit"
+  442  git log
+  443  q
+  444  git log q
+  445  
+  446  clear
+  447  nano README.md
+  448  cat README.md
+  449  git status
+  450  git stats
+  451  git commit -m "second commit"
+  452  git add .
+  453  git status
+  454  git commit -m "second commit"
+  455  cat README.md
+  456  git status
+  457  ls -a
+  458  nano README.md
+  459  cat README.md
+  460  git add .
+  461  git status
+  462  git commit -m "third commit"
+  463  git log
+  464  q
+  465  git checkout
+  466  630599e4458f1a1c2c5360866e1d6acf013b9859
+  467  commit 95d369fa212c81b5c7c9f5ca74671d838b6b1584
+  468  git checkout 630599e4458f1a1c2c5360866e1d6acf013b9859
+  469  cat README.md
+  470  git checkout master
+  471  cat README.md
+  472  clear
+  473  git branch
+  474  git branch <milkshake-flavours>
+  475  git branch milkshake-flavours
+  476  git branch
+  477  git checkout milkshake-branches
+  478  git checkout milkshake-flavours
+  479  nano milkshakes.md
+  480  git status
+  481  git add .
+  482  git commit -m "added initial flavours" 
+  483  git log
+  484  git checkout master
+  485  git branch history
+  486  git log
+  487  history > history.txt
+  488  git log
+  489  ls -a
+  490  git add .
+  491  git commit -m "added history"
+  492  checkout milkshake
+  493  git checkout milkshake
+  494  git checkout milkshake-flavours
+  495  git log
+  496  nano README.md
+  497  git add .
+  498  git commit -m "random readme changes"
+  499  git checkout history
+  500  cat README.md
+  501  rm README.md echo "booya" > README.md
+  502  rm README.md
+  503  ls -a
+  504  git log
+  505  cat README.md
+  506  echo "booya" > README.md
+  507  git add .
+  508  git commit -m "rewrote readme"
+  509  git checkout master
+  510  ls
+  511  git log
+  512  ls
+  513  git log
+  514  git reset HEAD^
+  515  git log
+  516  branch history
+  517  git checkout history
+  518  ls
+  519  touch history.txt
+  520  ls
+  521  git log
+  522  git reset HEAD^
+  523  history > history.txt
